@@ -1,0 +1,5 @@
+Command:
+cd D:\Coding\College\Coursera\Coursera-Final-Project\final_project; python -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I am very angry'))"
+
+Output:
+{'anger': 0.9, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'sadness': 0.0, 'dominant_emotion': 'anger'}

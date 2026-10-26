@@ -1,0 +1,7 @@
+Command:
+cd D:\Coding\College\Coursera\Coursera-Final-Project\final_project; python -m pylint EmotionDetection/emotion_detection.py server.py test_emotion_detection.py
+
+Output:
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10
+-------------------------------------------------------------------
